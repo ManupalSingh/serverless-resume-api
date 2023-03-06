@@ -1,5 +1,5 @@
 # Your Resume API on Azure Serverless
-
+Manupal Singh
 Create an [API](https://learn.microsoft.com/training/modules/build-api-azure-functions/3-overview-api) with Azure Function that displays your resume information in json. 
 
 ## Architecture 
